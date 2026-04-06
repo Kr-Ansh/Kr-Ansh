@@ -48,4 +48,4 @@ A dynamic quiz platform featuring secure authentication and real-time database m
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kumar-ansh-823921294/)
 [![Play Store](https://img.shields.io/badge/Play_Store-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.irons.projectc)
 
-**"Decoding puzzles and building mobile solutions from Gorakhpur, India 📍"**
+**"Decoding the signal, building the solution."**
