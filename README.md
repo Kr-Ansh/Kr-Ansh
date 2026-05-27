@@ -11,7 +11,7 @@ I am a software engineering student specializing in building robust, scalable ba
 | Category | Skills |
 | :--- | :--- |
 | **Languages** | Java, Kotlin, SQL, XML |
-| **Frameworks & Core Tools** | Spring Boot, Spring Data JPA, Hibernate, Jetpack Compose |
+| **Frameworks & Core Tools** | Spring Boot, Spring Data JPA, JUnit 5, Hibernate, Jetpack Compose |
 | **Mobile & Networking** | Android SDK, MVVM Architecture, Retrofit, Room DB |
 | **Cloud & Databases** | MySQL, PostgreSQL, SQLite, Firebase Suite |
 | **Cyber / Security** | OSINT Methodologies, Encryption Logic, REST API Hardening |
