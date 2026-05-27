@@ -48,7 +48,7 @@ A dynamic quiz platform featuring multi-device real-time state synchronization a
 
 ### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/kumar-ansh-823921294)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kumar-ansh-823921294)
 [![Play Store](https://img.shields.io/badge/Play_Store-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.irons.projectc)
 
 **"Architecting clean code from the server to the screen."**
