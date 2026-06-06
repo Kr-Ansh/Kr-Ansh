@@ -21,7 +21,7 @@ I am a software engineering student specializing in building robust, scalable ba
 
 ### 🚀 Projects in the Spotlight
 
-#### 📚 [Library Management System Ecosystem]([https://github.com/Kr-Ansh/library-management-system-backend](https://github.com/Kr-Ansh/Library_Management_System_Backend))
+#### 📚 [Library Management System Ecosystem](https://github.com/Kr-Ansh/Library_Management_System_Backend)
 A distributed, event-driven microservices ecosystem designed to handle high-throughput transactions seamlessly across multi-container topologies.
 * **Core Engineering:** Built an asynchronous pipeline using an **Apache Kafka** broker to offload transactional logs (`BOOK_EVENT`, `USER_EVENT`) to an independent secondary **Notification Microservice** running inside its own isolated Docker container.
 * **Performance Grids:** Integrated a **Redis caching layer** utilizing dynamic SpEL eviction algorithms to intercept heavy relational read paths, crashing database lookup latencies.
